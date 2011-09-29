@@ -26,6 +26,7 @@ There are config files for each gateway in the /config folder of the spark.  You
 The following gateways are supported:
 
 - PayPal Payments Pro
+- PayFlow Pro  // Adding now By Me The Dangler
 - Authorize.net (AIM)
 - Psigate
 - Beanstream
